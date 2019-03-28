@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="D:/IdeaProjects/autocase/myapp">
         <classes>
-            <class name="testTwo.OtherTest" />
+            <class name="testTwo.CaseRunTest" />
         </classes>
     </test>
 </suite>
