@@ -18,4 +18,9 @@ public class CaseRunTest {
     public void testCase3(){
         System.out.println("3");
     }
+
+    @Test
+    public void testCase4(){
+        System.out.println("4");
+    }
 }
